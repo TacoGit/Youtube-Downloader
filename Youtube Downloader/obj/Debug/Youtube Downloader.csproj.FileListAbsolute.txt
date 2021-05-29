@@ -1,0 +1,18 @@
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.exe.config
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.exe
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.pdb
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csprojAssemblyReference.cache
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube_Downloader.Form1.resources
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube_Downloader.Properties.Resources.resources
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csproj.GenerateResource.cache
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.exe
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.pdb
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube_Downloader.DownloadTIme.resources
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\libvideo.dll
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\MediaToolkit.dll
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\opmij\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csproj.CopyComplete
